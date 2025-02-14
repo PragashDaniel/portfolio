@@ -24,13 +24,13 @@ export const DATA = {
     "Multithreading",
     "Agile",
     "Kafka",
+     "Git",
+     "GitHub",
      "Data Structures and Algorithms",
     "Operating System",
     "Networking",
     "Database",
-    "Low Level Design",
-    "Git",
-    "GitHub"
+    "Low Level Design"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
