@@ -95,7 +95,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
@@ -120,7 +120,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "",
           icon: <Icons.globe className="size-3" />,
         },
       ],
