@@ -22,14 +22,13 @@ export const DATA = {
     "Hibernate",
     "Design Patterns",
     "Multithreading",
-    "Agile",
     "Kafka",
-     "Git",
-     "GitHub",
+    "Git",
+    "GitHub",
+    "Database",
      "Data Structures and Algorithms",
     "Operating System",
     "Networking",
-    "Database",
     "Low Level Design"
   ],
   navbar: [
