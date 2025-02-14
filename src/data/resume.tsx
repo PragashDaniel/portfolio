@@ -17,7 +17,6 @@ export const DATA = {
     "Spring Boot",
     "PostgreSQL",
     "Microservices",
-    "Redis",
     "Apache NiFi",
     "Kong API Gateway",
     "Hibernate",
@@ -25,6 +24,13 @@ export const DATA = {
     "Multithreading",
     "Agile",
     "Kafka",
+     "Data Structures and Algorithms",
+    "Operating System",
+    "Networking",
+    "Database",
+    "Low Level Design"
+    "Git",
+    "GitHub"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
