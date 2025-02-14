@@ -28,7 +28,7 @@ export const DATA = {
     "Operating System",
     "Networking",
     "Database",
-    "Low Level Design"
+    "Low Level Design,
     "Git",
     "GitHub"
   ],
